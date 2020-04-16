@@ -1,1 +1,3 @@
-# smuralidhar13.github.io
+# Personal website
+
+This repository contains my personal website.

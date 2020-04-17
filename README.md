@@ -1,3 +1,1 @@
-# Personal website
-
-This repository contains my personal website.
+Coming Soon Template
